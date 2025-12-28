@@ -1,2 +1,2 @@
-# leap
+# Retail POS App
 Retail POS App
